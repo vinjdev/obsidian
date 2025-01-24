@@ -1,0 +1,33 @@
+[[introduction to operating systems]]
+
+
+# [[Virtualization]]
+[[ch 4 - Abstraction the process]]
+[[ch 5 - interlude process API]]
+[[ch 6 - Mechanism limited direct execution]]
+[[ch 7 - Scheduling Introduction]]
+[[ch 8 - Scheduling MLFQ]]
+[[ch 13 - The abstraction - address spaces]]
+[[ch 14 - Interlude memory API]]
+[[ch 18 - Paging intro]]
+[[ch 19 - paging Faster Translation]]
+[[ch 20 - Paging smaller tables]]
+[[ch 21 - Beyond physical memory - mechanisms]]
+[[ch 22 - Beyond physical memory - policies]]
+# [[Concurrency]]
+[[ch 26 - intro concurrency]]
+[[ch 27 - interlude thread API]]
+[[ch 28 - locks]]
+[[ch 30 - Condition variables]]
+[[ch 31 - semaphores]]
+
+# [[Persistence]]
+[[ch 36 - IO devices]]
+[[ch 37 - Hard Disk Drives]]
+[[ch ??? - Flashed based SSD]]
+[[RAID IOPS]]
+
+[[ch 39 - Interlude files and directories]]
+[[ch 40 - File system implementation]]
+[[ch 42 - crash consistency]]
+
