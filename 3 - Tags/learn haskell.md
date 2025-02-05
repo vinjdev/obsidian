@@ -6,6 +6,7 @@ ___
 
 [[intro to haskell and starting out]]
 [[types and type classes]]
+[[syntax in functions]]
 
 
 # Referanse
