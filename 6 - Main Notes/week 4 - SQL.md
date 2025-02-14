@@ -7,6 +7,9 @@ ___
 run: lampp start
 sudo /opt/lampp/lampp start
 
+HUSK Å KJØR start_mysqlAndMariaDB.sh eller stop
+utifra om jeg skal ha adminboard eller terminal
+
 ```bash
 sudo systemctl stop mariadb
 sudo systemctl stop mysql
@@ -43,6 +46,13 @@ sql select statements have a fixed structure
 can set condition
 may want to *group* (can be condition on groups)
 set order
+
+*SELECT * FROM define what table to quary*
+
+use car.* 
+- this selects the car table with all attribute, good for multiple tables
+
+![[Pasted image 20250205130537.png]]
 
 
 

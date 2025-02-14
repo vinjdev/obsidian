@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4970ec0ebcf5ff1c",
+            "id": "869db04f4efa1ee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/PROG2005.md",
+                "file": "6 - Main Notes/week 5 - Conceptional Modeling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROG2005"
+              "title": "week 5 - Conceptional Modeling"
+            }
+          },
+          {
+            "id": "cf5579ffc7dac647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Tags/PROG2006.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROG2006"
+            }
+          },
+          {
+            "id": "abfff82118eeeb3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/types and type classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "types and type classes"
+            }
+          },
+          {
+            "id": "c8c0c335f4db0a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/week 4 - SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "week 4 - SQL"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,43 +208,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4970ec0ebcf5ff1c",
+  "active": "cf5579ffc7dac647",
   "lastOpenFiles": [
-    "4 - Indexes/NTNU.md",
-    "6 - Main Notes/oblig 1 - sql and relational algebra.md",
+    "6 - Main Notes/Haskell introduction.md",
+    "6 - Main Notes/week 5 - Conceptional Modeling.md",
+    "6 - Main Notes/types and type classes.md",
+    "3 - Tags/learn haskell.md",
+    "6 - Main Notes/syntax in functions.md",
+    "3 - Tags/PROG2006.md",
     "6 - Main Notes/week 4 - SQL.md",
-    "6 - Main Notes/week 3 - introduction relational algebra.md",
     "3 - Tags/IDATG2204.md",
-    "7 - IMG/Pasted image 20250204192250.png",
-    "7 - IMG/Pasted image 20250204192248.png",
-    "7 - IMG/Pasted image 20250204184331.png",
-    "7 - IMG/Pasted image 20250204183648.png",
-    "7 - IMG/Pasted image 20250204182134.png",
-    "7 - IMG/Pasted image 20250204182128.png",
-    "7 - IMG/Pasted image 20250204180333.png",
-    "7 - IMG/Pasted image 20250204175838.png",
-    "7 - IMG/Pasted image 20250204175255.png",
-    "7 - IMG/Pasted image 20250204171326.png",
-    "3 - Tags/PROG2005.md",
+    "6 - Main Notes/lab 1 - solidity.md",
+    "7 - IMG/Pasted image 20250214095744.png",
+    "7 - IMG/Pasted image 20250214095637.png",
+    "7 - IMG/Pasted image 20250214095436.png",
+    "7 - IMG/Pasted image 20250214095016.png",
+    "7 - IMG/Pasted image 20250214094743.png",
+    "7 - IMG/Pasted image 20250214094659.png",
+    "7 - IMG/Pasted image 20250214094541.png",
+    "7 - IMG/Pasted image 20250214094341.png",
+    "7 - IMG/Pasted image 20250214094319.png",
+    "6 - Main Notes/lecture 2 - linear regression.md",
+    "3 - Tags/PROG2051.md",
+    "6 - Main Notes/lecture - 1.md",
+    "4 - Indexes/NTNU.md",
+    "6 - Main Notes/oblig 1 - KI.md",
+    "6 - Main Notes/lecture 5 - neural networks and ensemble learning.md",
+    "6 - Main Notes/lecture 4 - Suppport Vector Machines.md",
     "3 - Tags/PROG2053.md",
+    "7 - IMG/Pasted image 20250210141450.png",
+    "6 - Main Notes/gitlab notes.md",
+    "6 - Main Notes/oblig 1 - cloud technologies.md",
+    "3 - Tags/PROG2005.md",
+    "6 - Main Notes/accessing relation databases.md",
+    "6 - Main Notes/oblig 1 - sql and relational algebra.md",
+    "6 - Main Notes/Untitled.md",
+    "6 - Main Notes/week 3 - introduction relational algebra.md",
     "6 - Main Notes/PROG2053/Lecture 2 - HTML.md",
     "2 - Source Material/learnOpengl/opengl trekant.md",
-    "6 - Main Notes/IDATG2202/week 35 - computer architecture.md",
-    "6 - Main Notes/lecture 4 - Suppport Vector Machines.md",
-    "3 - Tags/PROG2051.md",
-    "6 - Main Notes/lecture 3 - Logistic Regression.md",
-    "6 - Main Notes/status code.md",
-    "6 - Main Notes/getting started to golang.md",
-    "6 - Main Notes/intro to networking.md",
-    "6 - Main Notes/accessing relation databases.md",
-    "6 - Main Notes/lecture 2 - linear regression.md",
-    "6 - Main Notes/intro to haskell and starting out.md",
-    "6 - Main Notes/syntax in functions.md",
-    "3 - Tags/learn haskell.md",
-    "6 - Main Notes/types and type classes.md",
-    "3 - Tags/PROG2006.md",
-    "6 - Main Notes/lecture - 1.md",
-    "6 - Main Notes/sample space and probability.md",
     "Untitled.canvas",
     "6 - Main Notes/Leetcode",
     "ch 36 - I",
